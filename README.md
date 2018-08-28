@@ -9,6 +9,6 @@ BananaBot is discord bot for the original minecraft server BananaHouse.
 
 # Status
 
-[x] Online
-[] Maintenance
-[] Offline
+- [x] Online
+- [ ] Maintenance
+- [ ] Offline
