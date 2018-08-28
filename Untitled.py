@@ -97,4 +97,4 @@ async def banana(banana_message):
 
 
 
-bot.run('NDgyMjY1NjI2MDY5NDM0Mzgw.DmYfwg.-HL_RlEpjtM43oLal-rwZJrckRo')
+bot.run('')
