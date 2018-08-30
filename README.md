@@ -7,9 +7,11 @@ BananaBot is discord bot for the original minecraft server BananaHouse.
 * *Author:* CookieKenneth
 * *Sub-Author* LordCage
 * *Server Count:* 2
+* * Sub-Master Thread*
 
 # Status
 
-- [x] Online
+- [ ] Online
 - [ ] Maintenance
 - [ ] Offline
+- [X] TBD/NULL
