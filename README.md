@@ -1,5 +1,7 @@
-# bananabot
+# Bananabot
 BananaBot is discord bot for the original minecraft server BananaHouse.
+
+![Image of BananaHouse Logo](https://cdn.discordapp.com/attachments/311161728446758925/484877350786564098/bananahouse.png)
 
 # About The Bot
 
