@@ -1,11 +1,13 @@
-//-------------------------------------------------------------------
+/*-------------------------------------------------------------------
 //
-// BananaBot(tm) was created by CookieKenneth and is used for private
+// BananaBot was created by CookieKenneth and is used for private
 // purposes dedicated to BananaHouse, LLC.
 // 
-// TOKEN: {token goes here}
+// 
 //
-//-------------------------------------------------------------------
+-------------------------------------------------------------------
+*/
+
 const { Client } = require('discord.js')
 const bot = new Client();
 const cfg = require('./config.json');
