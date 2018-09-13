@@ -18,3 +18,11 @@ BananaBot is discord bot for the original minecraft server BananaHouse.
 - [ ] Maintenance
 - [ ] Offline
 - [X] TBD/NULL
+
+# Dependency's
+
+Below are the current tools (requirements) needed to properly run the bot.
+
+* npm (https://www.npmjs.com/)
+* nodemon (unknown for now)
+* node.js (latest version)
